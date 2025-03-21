@@ -1,6 +1,6 @@
 {
     "data": [
-        {"levelname": "easy", "url": "easy.json"},
+        {"levelname": "easy", "url": "https://raw.githubusercontent.com/Satyam2008/Tic-Tac-Toe/refs/heads/main/a.json"},
         {"levelname": "medium", "url": "medium.json"},
         {"levelname": "hard", "url": "hard.json"},
         {"levelname": "expert", "url": "expert.json"}
