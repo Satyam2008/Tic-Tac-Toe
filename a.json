@@ -1,0 +1,7 @@
+{
+    "data": [
+        {"sequence": [1, 2, 4, 8], "answer": [16]},
+        {"sequence": [3, 6, 12, 24], "answer": [48]},
+        {"sequence": [2, 5, 8, 11], "answer": [14]}
+    ]
+}
