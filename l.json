@@ -1,0 +1,8 @@
+{
+    "data": [
+        {"levelname": "easy", "url": "easy.json"},
+        {"levelname": "medium", "url": "medium.json"},
+        {"levelname": "hard", "url": "hard.json"},
+        {"levelname": "expert", "url": "expert.json"}
+    ]
+}
